@@ -11,6 +11,20 @@
 
 &nbsp;  
 
+## 💻 Tech Stack
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=python" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=java" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=react" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" width="70" /> &nbsp;
+    <img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/f3471d64-f1c6-42da-8326-09b4d65da192" width="70" /> &nbsp;
+    <img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/b61a4e76-9ff7-4de0-a694-66503f6164a9" width="70" /> &nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" width="70" /> &nbsp;   
+</p>
+
+&nbsp;
+
 ## 🚀 Project
 
 &nbsp;  
@@ -24,4 +38,5 @@
 |**🐝 [송영훈](http://github.com/epsin7783)**|**🐝 [조병찬](http://github.com/bbjbc)**|**🐝 [홍공진](http://github.com/Gongjjin)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&animation=fadeIn&section=footer)](https://github.com/2023-KDH-Capstone-Design) 
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&animation=fadeIn&section=footer)](https://github.com/2024-Advanced-Capstone-Design) 
+
