@@ -31,7 +31,8 @@
 &nbsp;  
 
 ## 👨‍👩‍👧‍👦 Members
-|[![holyPigeon](https://avatars.githubusercontent.com/u/89138189?v=4)](https://github.com/holyPigeon)|[![fbehddn](https://avatars.githubusercontent.com/u/108855080?v=4)](http://github.com/fbehddn)|[![2EETY](https://avatars.githubusercontent.com/u/113500798?v=4)](http://github.com/2EETY)|
+
+|[![holyPigeon](https://github.com/2024-Advanced-Capstone-Design/.github/assets/89138189/fc3c7fe7-27a9-4264-a6fe-4285a74e5e1b)](https://github.com/holyPigeon)|[![fbehddn](https://avatars.githubusercontent.com/u/108855080?v=4)](http://github.com/fbehddn)|[![2EETY](https://avatars.githubusercontent.com/u/113500798?v=4)](http://github.com/2EETY)|
 |:---:|:---:|:---:|
 |**👑 [정재우](http://github.com/holyPigeon)**|**🐝 [유동우](http://github.com/fbehddn)**|**🐝 [이태용](http://github.com/2EETY)**|
 |컴퓨터공학부 19|컴퓨터공학부 19|컴퓨터공학부 19|
