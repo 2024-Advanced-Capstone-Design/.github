@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=react" width="70" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" width="70" /> &nbsp;
     
-### 💽 Back-end
+### 🛠 Back-end
 <img src="https://skillicons.dev/icons?i=java" width="70" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=spring" width="70" /> &nbsp;
 <img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/d82a41fd-3a69-45d2-b565-781fc5ea3cb8" width="70" /> &nbsp;
@@ -38,10 +38,15 @@
 <img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/7c053cd9-1c3c-4949-aaf4-5fc9841c367a" width="70" /> &nbsp;
 
 
-### 📠 IDE
+### 📠 Infra
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/8c93f8c4-1885-4d49-9408-cc7444bd67b3" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/70eeb267-9776-4046-8747-1ab8c0a4e2c9" width="70" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" width="70" /> &nbsp;
 <img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/310a7541-84f6-4c59-96d8-8d9d77a96c28" width="70" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/02ddd28d-2b65-4de2-9549-ea2551163869" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/9dca32c7-c5ce-44bc-bc1e-c744c24bd401" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/dd02751a-9b0c-40be-a711-572d79686bf4" width="70" /> &nbsp;
 
 &nbsp;
 
