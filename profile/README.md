@@ -22,15 +22,15 @@
 ### 💽 Back-end
 <img src="https://skillicons.dev/icons?i=java" width="70" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=spring" width="70" /> &nbsp;
-<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/dd93ba6e-93fd-4b4a-8beb-36ecea8bc55b" width="70" /> &nbsp;
-<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/644f99dd-ca8b-4b21-baa0-18df5f781baf" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/d82a41fd-3a69-45d2-b565-781fc5ea3cb8" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/0a8fce08-d403-4659-8b50-92039c2d627d" width="70" /> &nbsp;
 <img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/b61a4e76-9ff7-4de0-a694-66503f6164a9" width="70" /> &nbsp;
 
 
 ### 🧠 AI
 <img src="https://skillicons.dev/icons?i=python" width="70" /> &nbsp;
-<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/f2358d94-4e5e-4655-b014-e0be6d13e1a4" width="70" /> &nbsp;
-<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/38f22ef2-506c-4107-8b15-bc930a6979be" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/d1d9534b-ae34-46dd-845b-e315d2f1d578" width="70" /> &nbsp;
+<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/bfd29813-5a33-4430-bf65-b6bea461b378" width="70" /> &nbsp;
 <img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/06523f74-e3fc-437d-84ab-baff2e8aa52c" width="70" /> &nbsp;
 
 ### 💾 Database
