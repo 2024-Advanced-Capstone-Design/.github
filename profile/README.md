@@ -20,8 +20,8 @@
 
 |**2024 컴퓨터공학심화캡스톤디자인 경진대회**|**2024 한국정보기술학회**|
 |:---:|:---:|
-|<img src="" alt="추후 업로드 예정" width="300" height="450">|<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/ccb47109-06dc-4ad8-b3c9-b3b05cbc8e62"  width="300" height="450">|
-|**금상 수상 🥇**|**동상 수상 🥉**|
+|<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/54b4e876-72da-46f8-a11c-7320122de41a" width="300" height="450">|<img src="https://github.com/2024-Advanced-Capstone-Design/.github/assets/102457140/ccb47109-06dc-4ad8-b3c9-b3b05cbc8e62"  width="300" height="450">|
+|**은상 수상 🥇**|**동상 수상 🥉**|
 
 &nbsp;  
 
